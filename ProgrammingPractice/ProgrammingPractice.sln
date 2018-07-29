@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Excercises", "Excercises", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsAndExpressions", "OperatorsAndExpressions\OperatorsAndExpressions.csproj", "{CFF3603B-7136-480C-9AE5-35FAD3CEA46B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PracticeWork", "PracticeWork", "{EE7640E5-E18E-49C6-ABB2-E58647CAB6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationTracker", "DonationTracker\DonationTracker.csproj", "{F89BA2EC-8373-42B4-9B9C-FB342AE0580E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,17 @@ Global
 		{CFF3603B-7136-480C-9AE5-35FAD3CEA46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF3603B-7136-480C-9AE5-35FAD3CEA46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF3603B-7136-480C-9AE5-35FAD3CEA46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89BA2EC-8373-42B4-9B9C-FB342AE0580E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89BA2EC-8373-42B4-9B9C-FB342AE0580E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89BA2EC-8373-42B4-9B9C-FB342AE0580E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89BA2EC-8373-42B4-9B9C-FB342AE0580E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CFF3603B-7136-480C-9AE5-35FAD3CEA46B} = {74831DEE-35E9-4E16-8AAD-D75B1BD9188D}
+		{F89BA2EC-8373-42B4-9B9C-FB342AE0580E} = {EE7640E5-E18E-49C6-ABB2-E58647CAB6F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {747A649C-FB68-48F3-A590-FF7CA6217B53}
