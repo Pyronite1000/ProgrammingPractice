@@ -8,26 +8,19 @@ namespace OperatorsAndExpressions
 {
     class Program
     {
-        static void ArithmaticOperators(string[] args)
+        static void Main(string[] args)
         {
+            //arithmatic operators
             var A = 10;
             var B = 20;
 
-            Console.WriteLine("A" + "B");
-            Console.ReadLine();
-
-            int addition = A + B;
-            int subtraction = A - B;
-            int multplication = A * B;
-            int division = B / A;
-            int remainder = B % A;
-            int addOne = A++;
-            int subtractOne = A--;
-        }
-
-        static void RelationalOperators(string[] args)
-        {
-
+            Console.WriteLine(A + B);//add
+            Console.WriteLine(A - B);//subtract
+            Console.WriteLine(A * B);//MultiplySS
+            Console.WriteLine(B / A);//Divide
+            Console.WriteLine(B % A);//Remainder
+            // ++ adds 1 and -- subtracts 1
+            Console.ReadKey();
         }
     }
 }
