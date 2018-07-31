@@ -61,7 +61,7 @@ namespace FortuneTeller
             }
             else
             {
-                money = "nothing, cause fuck you";
+                money = "nothing, cause fuck you,";
             }
 
             Console.WriteLine("Whaat's your favorite color? Type \"help\" to list your options.");
