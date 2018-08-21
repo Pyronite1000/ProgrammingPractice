@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationTracker", "Donation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{076F416A-AB94-4495-B727-AE842FDEFB77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumbers", "GuessTheNumbers\GuessTheNumbers.csproj", "{933FCAA2-7D01-48A0-8C1D-8EE740E1D5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{076F416A-AB94-4495-B727-AE842FDEFB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{076F416A-AB94-4495-B727-AE842FDEFB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{076F416A-AB94-4495-B727-AE842FDEFB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933FCAA2-7D01-48A0-8C1D-8EE740E1D5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933FCAA2-7D01-48A0-8C1D-8EE740E1D5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933FCAA2-7D01-48A0-8C1D-8EE740E1D5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933FCAA2-7D01-48A0-8C1D-8EE740E1D5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +51,7 @@ Global
 		{CFF3603B-7136-480C-9AE5-35FAD3CEA46B} = {74831DEE-35E9-4E16-8AAD-D75B1BD9188D}
 		{F89BA2EC-8373-42B4-9B9C-FB342AE0580E} = {EE7640E5-E18E-49C6-ABB2-E58647CAB6F9}
 		{076F416A-AB94-4495-B727-AE842FDEFB77} = {74831DEE-35E9-4E16-8AAD-D75B1BD9188D}
+		{933FCAA2-7D01-48A0-8C1D-8EE740E1D5C3} = {EE7640E5-E18E-49C6-ABB2-E58647CAB6F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {747A649C-FB68-48F3-A590-FF7CA6217B53}
